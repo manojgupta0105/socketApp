@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/socketApp/static/js/runtime~main.993fc319.js"
   },
   {
-    "revision": "63011a654f395e7cd5a0",
-    "url": "/socketApp/static/js/main.63011a65.chunk.js"
+    "revision": "e6bcaedbd1209b3d6064",
+    "url": "/socketApp/static/js/main.e6bcaedb.chunk.js"
   },
   {
     "revision": "30fcd1f0a7aad57a4534",
     "url": "/socketApp/static/js/2.30fcd1f0.chunk.js"
   },
   {
-    "revision": "63011a654f395e7cd5a0",
+    "revision": "e6bcaedbd1209b3d6064",
     "url": "/socketApp/static/css/main.1d72a9bf.chunk.css"
   },
   {
-    "revision": "0fd2005918ef5ef9c0d41127ca3f4e94",
+    "revision": "9debc65bf869a1eb137444ce6dbeff8c",
     "url": "/socketApp/index.html"
   }
 ];

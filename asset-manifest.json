@@ -1,13 +1,13 @@
 {
   "main.css": "/socketApp/static/css/main.1d72a9bf.chunk.css",
-  "main.js": "/socketApp/static/js/main.63011a65.chunk.js",
-  "main.js.map": "/socketApp/static/js/main.63011a65.chunk.js.map",
+  "main.js": "/socketApp/static/js/main.e6bcaedb.chunk.js",
+  "main.js.map": "/socketApp/static/js/main.e6bcaedb.chunk.js.map",
   "runtime~main.js": "/socketApp/static/js/runtime~main.993fc319.js",
   "runtime~main.js.map": "/socketApp/static/js/runtime~main.993fc319.js.map",
   "static/js/2.30fcd1f0.chunk.js": "/socketApp/static/js/2.30fcd1f0.chunk.js",
   "static/js/2.30fcd1f0.chunk.js.map": "/socketApp/static/js/2.30fcd1f0.chunk.js.map",
   "index.html": "/socketApp/index.html",
-  "precache-manifest.a69ca2daa0a15eeef3b4000792c8ca98.js": "/socketApp/precache-manifest.a69ca2daa0a15eeef3b4000792c8ca98.js",
+  "precache-manifest.29c6546900696d546c72bf213e640cc5.js": "/socketApp/precache-manifest.29c6546900696d546c72bf213e640cc5.js",
   "service-worker.js": "/socketApp/service-worker.js",
   "static/css/main.1d72a9bf.chunk.css.map": "/socketApp/static/css/main.1d72a9bf.chunk.css.map"
 }
