@@ -83,18 +83,7 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          {/* <img src={logo} className="App-logo" alt="logo" /> */}
-          {/* <p>
-            Edit <code>src/App.js</code> and save to reload.
-          </p>
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          > */}
-            {/* {JSON.stringify(this.state.stockData)} */}
-            <table>
+            <table border="1">
               <thead>
               <tr>
                 <th>Product</th>
@@ -112,7 +101,6 @@ class App extends Component {
               })}
               </tbody>
             </table>
-          {/* </a> */}
           <Websocket url={serverUrl}
               onMessage={this.handleData.bind(this)}/>
         </header>
